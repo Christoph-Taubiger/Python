@@ -1,0 +1,76 @@
+1639246268325	geckodriver	INFO	Listening on 127.0.0.1:46237
+1639246268331	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "36485" "-no-remote" "-profile" "/tmp/rust_mozprofile1HATfv"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639246293571	geckodriver	INFO	Listening on 127.0.0.1:58899
+1639246293576	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "55643" "-no-remote" "-profile" "/tmp/rust_mozprofile789dfq"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639246724499	geckodriver	INFO	Listening on 127.0.0.1:56625
+1639246724505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60003" "-no-remote" "-profile" "/tmp/rust_mozprofilediVN9h"
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.555: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.555: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.555: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.555: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.822: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.887: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.887: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.887: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.887: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.971: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.971: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.971: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:44.971: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:68650): Gtk-WARNING **: 19:18:45.016: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:68650): Gtk-WARNING **: 19:18:45.016: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:45.016: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:68650): Gtk-WARNING **: 19:18:45.016: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639246725090	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilediVN9h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60003/devtools/browser/3d934b52-39a3-42c4-8521-e055678701f8
+1639246726959	Marionette	INFO	Listening on port 38211
+1639246727029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639246727887	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1639246738301	Marionette	INFO	Stopped listening on port 38211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
