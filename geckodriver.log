@@ -74,3 +74,1819 @@ DevTools listening on ws://localhost:60003/devtools/browser/3d934b52-39a3-42c4-8
 1639246727887	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1639246738301	Marionette	INFO	Stopped listening on port 38211
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639247612526	geckodriver	INFO	Listening on 127.0.0.1:42995
+1639247612533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34761" "-no-remote" "-profile" "/tmp/rust_mozprofile0hkYSD"
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.588: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.588: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.589: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.589: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:32.938: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.003: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.004: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.004: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.004: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.087: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.087: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.087: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.087: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.130: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.130: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.130: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71122): Gtk-WARNING **: 19:33:33.130: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639247613206	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0hkYSD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34761/devtools/browser/2eb10fa5-0e30-4254-a1b6-191844e53eaf
+1639247615107	Marionette	INFO	Listening on port 40911
+1639247615166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639247634059	Marionette	INFO	Stopped listening on port 40911
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639247706788	geckodriver	INFO	Listening on 127.0.0.1:36671
+1639247706794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60009" "-no-remote" "-profile" "/tmp/rust_mozprofileBAprRP"
+
+(firefox:71501): Gtk-WARNING **: 19:35:06.852: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71501): Gtk-WARNING **: 19:35:06.852: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:06.852: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:06.852: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.168: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.232: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.232: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.232: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.232: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.314: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.314: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.314: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.314: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.355: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.355: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.355: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71501): Gtk-WARNING **: 19:35:07.355: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639247707433	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBAprRP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60009/devtools/browser/2bdea39c-43a1-4ddb-95f0-7202c7b7968b
+1639247709404	Marionette	INFO	Listening on port 46791
+1639247709516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639247731618	geckodriver	INFO	Listening on 127.0.0.1:34789
+1639247731623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49079" "-no-remote" "-profile" "/tmp/rust_mozprofileVYWBSm"
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.668: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.668: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.668: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.668: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:31.952: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.015: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.015: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.015: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.015: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.098: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.098: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.098: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.098: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.139: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.139: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.139: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:71762): Gtk-WARNING **: 19:35:32.139: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639247732215	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVYWBSm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49079/devtools/browser/eb63c0a4-923b-4253-afaf-ac79c79b236f
+1639247734306	Marionette	INFO	Listening on port 45199
+1639247734348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639247745721	Marionette	INFO	Stopped listening on port 45199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639247755894	geckodriver	INFO	Listening on 127.0.0.1:45063
+1639247755900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54163" "-no-remote" "-profile" "/tmp/rust_mozprofilerDSXmZ"
+
+(firefox:72041): Gtk-WARNING **: 19:35:55.969: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:72041): Gtk-WARNING **: 19:35:55.969: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:55.969: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:55.969: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.281: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.345: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.345: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.345: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.345: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.426: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.426: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.426: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.426: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.467: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.467: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.467: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:72041): Gtk-WARNING **: 19:35:56.467: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639247756542	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerDSXmZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54163/devtools/browser/3f591634-dd41-4912-bc36-540542244f1e
+1639247758603	Marionette	INFO	Listening on port 46219
+1639247758629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1639247809442	Marionette	INFO	Stopped listening on port 46219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639247811770	Marionette	INFO	Stopped listening on port 46791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639256594073	geckodriver	INFO	Listening on 127.0.0.1:58505
+1639256594078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38677" "-no-remote" "-profile" "/tmp/rust_mozprofilexjBQJh"
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.132: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.132: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.132: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.132: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.433: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.433: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.433: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.433: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.433: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.434: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.434: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.503: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.503: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.503: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.503: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.590: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.590: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.590: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.590: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.635: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.635: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.635: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:84762): Gtk-WARNING **: 22:03:14.635: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256594713	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexjBQJh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38677/devtools/browser/0d9b8cc7-931f-4ff6-8cf5-d1881fd08e01
+1639256597079	Marionette	INFO	Listening on port 43731
+1639256597102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639256626423	geckodriver	INFO	Listening on 127.0.0.1:57253
+1639256626429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53207" "-no-remote" "-profile" "/tmp/rust_mozprofileCb77Ii"
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.501: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.501: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.501: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.501: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.830: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.910: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.910: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.910: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:46.910: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.000: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.000: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.000: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.000: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.043: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.043: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.043: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85049): Gtk-WARNING **: 22:03:47.043: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256627116	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCb77Ii/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53207/devtools/browser/ebf049b9-68a4-4c5e-82ca-1e54938841cd
+1639256628912	Marionette	INFO	Listening on port 46163
+1639256628963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639256629786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639256654174	Marionette	INFO	Stopped listening on port 46163
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639256658465	Marionette	INFO	Stopped listening on port 43731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639256719372	geckodriver	INFO	Listening on 127.0.0.1:37725
+1639256719377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43753" "-no-remote" "-profile" "/tmp/rust_mozprofileoP1Zrb"
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.436: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.437: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.437: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.437: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.765: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.841: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.841: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.841: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.841: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.925: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.925: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.925: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.925: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.968: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.968: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.968: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85515): Gtk-WARNING **: 22:05:19.968: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256720049	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoP1Zrb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43753/devtools/browser/59b7be95-509c-484a-b21f-d6afabf1ff5c
+1639256722107	Marionette	INFO	Listening on port 42455
+1639256722204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=847775821, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=847775821, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=847775821, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=847775821 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=847775821 line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4815 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.techwithtim.net/wp-content/cache/autoptimize/css/autoptimize_86d10738ac2c674ed1d0c81744c8089b.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://use.fontawesome.com/releases/v5.6.0/css/all.css without a browsingContextID set
+1639256750361	Marionette	INFO	Stopped listening on port 42455
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639256779982	geckodriver	INFO	Listening on 127.0.0.1:45167
+1639256779988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36219" "-no-remote" "-profile" "/tmp/rust_mozprofiletAiQhW"
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.053: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.053: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.053: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.053: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.348: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.413: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.414: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.414: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.414: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.504: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.504: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.504: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.504: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.550: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.550: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.550: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:85869): Gtk-WARNING **: 22:06:20.550: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256780632	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletAiQhW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36219/devtools/browser/d2b2d8be-29a8-43a5-9446-5b1d93e8a63b
+1639256782292	Marionette	INFO	Listening on port 44683
+1639256782317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=934983462, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=934983462, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=934983462, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=934983462 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=934983462 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 5018 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639256966615	geckodriver	INFO	Listening on 127.0.0.1:42653
+1639256966620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46583" "-no-remote" "-profile" "/tmp/rust_mozprofilemw9r3k"
+
+(firefox:86209): Gtk-WARNING **: 22:09:26.668: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86209): Gtk-WARNING **: 22:09:26.668: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:26.668: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:26.668: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.002: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.069: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.069: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.069: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.069: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.156: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.156: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.156: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.156: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.199: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.199: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.199: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86209): Gtk-WARNING **: 22:09:27.199: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256967283	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemw9r3k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46583/devtools/browser/6deb0793-39ed-4452-9574-b8362cec3d2c
+1639256969076	Marionette	INFO	Listening on port 35015
+1639256969146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=200157563, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=200157563, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=200157563 line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 243 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639256977426	Marionette	INFO	Stopped listening on port 35015
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639256997540	geckodriver	INFO	Listening on 127.0.0.1:35681
+1639256997545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41437" "-no-remote" "-profile" "/tmp/rust_mozprofilegHhTYd"
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.592: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.592: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.592: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.592: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.911: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.983: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.983: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.983: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:57.983: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.080: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.080: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.081: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.081: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.126: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.126: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.126: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86508): Gtk-WARNING **: 22:09:58.126: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639256998200	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegHhTYd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41437/devtools/browser/bf984d28-8ec8-440b-9665-f5f7198d46fc
+1639257000020	Marionette	INFO	Listening on port 44303
+1639257000067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1112748546, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1112748546, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1112748546, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1112748546 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1112748546 line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 5131 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=391221340, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=391221340, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=391221340, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=391221340 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=391221340 line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 5543 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639257021359	Marionette	INFO	Stopped listening on port 44303
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 86508, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-PkqERJ/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639257173205	geckodriver	INFO	Listening on 127.0.0.1:47433
+1639257173211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44579" "-no-remote" "-profile" "/tmp/rust_mozprofileQzRZxn"
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.270: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.270: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.270: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.270: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.563: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.633: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.633: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.633: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.633: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.739: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.739: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.739: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.739: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.787: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.787: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.787: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:86998): Gtk-WARNING **: 22:12:53.787: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257173869	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQzRZxn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44579/devtools/browser/725aa484-9d82-4e6d-907e-424be64faffc
+1639257175759	Marionette	INFO	Listening on port 32841
+1639257175836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639257180821	Marionette	INFO	Stopped listening on port 32841
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639257296202	geckodriver	INFO	Listening on 127.0.0.1:57125
+1639257296207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36657" "-no-remote" "-profile" "/tmp/rust_mozprofile7CssZ6"
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.260: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.260: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.260: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.260: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.575: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.642: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.643: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.643: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.643: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.728: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.728: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.728: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.728: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.773: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.773: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.773: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87302): Gtk-WARNING **: 22:14:56.773: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257296848	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7CssZ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36657/devtools/browser/7e2df508-9ca7-4a78-83f0-580e66166dbb
+1639257298540	Marionette	INFO	Listening on port 38931
+1639257298644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1441785254, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1441785254, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1441785254, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1441785254 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1441785254 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3183 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639257323640	Marionette	INFO	Stopped listening on port 38931
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639257352700	geckodriver	INFO	Listening on 127.0.0.1:41473
+1639257352706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38641" "-no-remote" "-profile" "/tmp/rust_mozprofileynv5H9"
+
+(firefox:87641): Gtk-WARNING **: 22:15:52.757: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87641): Gtk-WARNING **: 22:15:52.757: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:52.757: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:52.757: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.060: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.127: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.127: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.127: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.127: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.209: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.209: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.209: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.209: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.253: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.253: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.253: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87641): Gtk-WARNING **: 22:15:53.253: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257353325	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileynv5H9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38641/devtools/browser/c442abdb-1f17-400a-8acb-154c932ce35c
+1639257354962	Marionette	INFO	Listening on port 43581
+1639257355047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1538580770, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1538580770, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1538580770 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1538580770 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3768 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3486 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639257393026	Marionette	INFO	Stopped listening on port 43581
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639257416737	geckodriver	INFO	Listening on 127.0.0.1:57241
+1639257416743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39165" "-no-remote" "-profile" "/tmp/rust_mozprofileXfsfhi"
+
+(firefox:87960): Gtk-WARNING **: 22:16:56.794: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87960): Gtk-WARNING **: 22:16:56.794: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:56.794: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:56.794: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.124: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.191: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.191: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.191: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.191: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.280: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.280: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.280: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.280: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.323: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.323: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.323: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:87960): Gtk-WARNING **: 22:16:57.323: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257417398	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXfsfhi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39165/devtools/browser/6a02f0e7-1ad5-406c-9edc-5b538bc237c9
+1639257419111	Marionette	INFO	Listening on port 42941
+1639257419166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1094413390, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1094413390, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1094413390 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639257426911	Marionette	INFO	Stopped listening on port 42941
+1639257895447	geckodriver	INFO	Listening on 127.0.0.1:46631
+1639257895452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35275" "-no-remote" "-profile" "/tmp/rust_mozprofile1IubJP"
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.507: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.507: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.507: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.507: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.812: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.887: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.887: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.887: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.887: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.972: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.972: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.972: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:55.973: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88518): Gtk-WARNING **: 22:24:56.015: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88518): Gtk-WARNING **: 22:24:56.016: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:56.016: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88518): Gtk-WARNING **: 22:24:56.016: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257896093	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1IubJP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35275/devtools/browser/fcfdc817-d848-4995-98a6-7bead0cb8009
+1639257897951	Marionette	INFO	Listening on port 40231
+1639257897985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1103454572, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1103454572, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1103454572, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1103454572 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1103454572 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 1647 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639257947525	geckodriver	INFO	Listening on 127.0.0.1:41431
+1639257947530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34659" "-no-remote" "-profile" "/tmp/rust_mozprofileT5G9H9"
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.579: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.579: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.579: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.579: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.890: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.890: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.890: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.890: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.890: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.891: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.891: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.960: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.960: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.960: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:47.960: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.053: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.053: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.053: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.053: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.105: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.105: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.105: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:88819): Gtk-WARNING **: 22:25:48.105: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257948196	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT5G9H9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34659/devtools/browser/4288d17f-8a1f-43db-8237-7bf06014194c
+1639257950324	Marionette	INFO	Listening on port 37993
+1639257950359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=181593792, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=181593792, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=181593792, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=181593792 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=181593792 line 1 > eval, line 1: unreachable code after return statement
+1639257956027	Marionette	INFO	Stopped listening on port 40231
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639257959093	Marionette	INFO	Stopped listening on port 37993
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639257976790	Marionette	INFO	Stopped listening on port 44683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639257978805	geckodriver	INFO	Listening on 127.0.0.1:54451
+1639257978811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38877" "-no-remote" "-profile" "/tmp/rust_mozprofilewWK3Bc"
+
+(firefox:89181): Gtk-WARNING **: 22:26:18.900: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89181): Gtk-WARNING **: 22:26:18.900: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:18.900: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:18.900: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.338: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.424: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.424: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.424: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.424: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.511: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.511: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.511: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.511: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.554: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.554: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.554: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89181): Gtk-WARNING **: 22:26:19.554: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639257979628	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewWK3Bc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38877/devtools/browser/2318a013-f505-4283-8c19-96490c14adcd
+1639257982409	Marionette	INFO	Listening on port 41017
+1639257982461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=192692407, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=192692407, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=192692407 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=192692407 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639257991707	Marionette	INFO	Stopped listening on port 41017
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639258060255	geckodriver	INFO	Listening on 127.0.0.1:55297
+1639258060260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32957" "-no-remote" "-profile" "/tmp/rust_mozprofileHvBb5M"
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.319: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.319: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.319: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.319: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.663: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.759: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.759: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.759: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.759: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.848: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.848: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.848: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.848: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.891: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.891: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.891: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89522): Gtk-WARNING **: 22:27:40.891: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639258060972	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHvBb5M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32957/devtools/browser/828f8865-515a-4207-9799-3882407366e3
+1639258062940	Marionette	INFO	Listening on port 43073
+1639258062990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1470719025, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1470719025, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1470719025, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1470719025 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1470719025 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639258068451	Marionette	INFO	Stopped listening on port 43073
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639258189120	geckodriver	INFO	Listening on 127.0.0.1:38387
+1639258189127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48797" "-no-remote" "-profile" "/tmp/rust_mozprofilezayJmT"
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.203: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.204: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.204: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.204: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.513: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.586: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.586: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.586: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.586: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.670: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.670: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.670: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.670: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.714: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.714: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.714: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:89962): Gtk-WARNING **: 22:29:49.714: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639258189785	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezayJmT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48797/devtools/browser/1bad0461-e06f-4d53-8816-e41e776aabd2
+1639258191408	Marionette	INFO	Listening on port 37535
+1639258191449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1428019939, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1428019939, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1428019939 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1428019939 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639258196745	Marionette	INFO	Stopped listening on port 37535
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639258227780	geckodriver	INFO	Listening on 127.0.0.1:56865
+1639258227786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53611" "-no-remote" "-profile" "/tmp/rust_mozprofileynb8JW"
+
+(firefox:90289): Gtk-WARNING **: 22:30:27.846: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:90289): Gtk-WARNING **: 22:30:27.846: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:27.846: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:27.846: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.146: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.212: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.212: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.212: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.212: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.297: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.298: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.298: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.298: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.342: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.342: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.342: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:90289): Gtk-WARNING **: 22:30:28.342: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639258228422	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileynb8JW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53611/devtools/browser/7d4cfd62-4d2a-4ad1-8700-75f9548f2ae3
+1639258230060	Marionette	INFO	Listening on port 35757
+1639258230111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1808725794, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1808725794, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1808725794 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639258236207	Marionette	INFO	Stopped listening on port 35757
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639258506505	geckodriver	INFO	Listening on 127.0.0.1:46193
+1639258506510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37529" "-no-remote" "-profile" "/tmp/rust_mozprofileR0imoT"
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.565: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.565: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.565: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.565: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:06.943: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.009: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.009: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.009: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.009: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.095: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.095: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.095: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.095: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.140: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.140: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.140: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92017): Gtk-WARNING **: 22:35:07.140: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639258507218	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR0imoT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37529/devtools/browser/9b6080a1-e997-4fb1-84a9-8304be78a82b
+1639258509045	Marionette	INFO	Listening on port 35379
+1639258509136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2036231321, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2036231321, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2036231321, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2036231321 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2036231321 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+1639258515048	Marionette	INFO	Stopped listening on port 35379
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639258807717	geckodriver	INFO	Listening on 127.0.0.1:38239
+1639258807722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47277" "-no-remote" "-profile" "/tmp/rust_mozprofilecaagR8"
+
+(firefox:92391): Gtk-WARNING **: 22:40:07.769: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92391): Gtk-WARNING **: 22:40:07.769: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:07.769: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:07.769: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.123: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.190: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.190: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.190: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.190: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.274: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.274: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.274: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.274: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.318: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.318: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.318: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:92391): Gtk-WARNING **: 22:40:08.318: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639258808394	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecaagR8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47277/devtools/browser/535bcf8a-3913-4525-ac0f-8d916cf81959
+1639258810070	Marionette	INFO	Listening on port 46597
+1639258810182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1837314122, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1837314122, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1837314122, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1837314122 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1837314122 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3939 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639258826973	Marionette	INFO	Stopped listening on port 46597
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 92391, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-PkqERJ/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639259441239	geckodriver	INFO	Listening on 127.0.0.1:37315
+1639259441247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40041" "-no-remote" "-profile" "/tmp/rust_mozprofileUvc86N"
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.296: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.296: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.296: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.296: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.620: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.691: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.691: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.691: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.692: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.780: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.780: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.780: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.780: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.825: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.825: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.825: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:94935): Gtk-WARNING **: 22:50:41.825: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639259441905	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUvc86N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40041/devtools/browser/a9f394e6-dd57-42a6-9578-2d2f5c30f905
+1639259443692	Marionette	INFO	Listening on port 45159
+1639259443787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=438325139, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=438325139, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=438325139, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=438325139 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=438325139 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4697 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639259464669	Marionette	INFO	Stopped listening on port 45159
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639259501754	geckodriver	INFO	Listening on 127.0.0.1:60721
+1639259501759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35665" "-no-remote" "-profile" "/tmp/rust_mozprofilejUyXb5"
+
+(firefox:95273): Gtk-WARNING **: 22:51:41.823: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:95273): Gtk-WARNING **: 22:51:41.824: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:41.824: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:41.824: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.178: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.250: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.250: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.250: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.250: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.336: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.337: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.337: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.337: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.381: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.381: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.381: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:95273): Gtk-WARNING **: 22:51:42.381: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1639259502457	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejUyXb5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35665/devtools/browser/f7024b0d-4f6d-40e4-bf5c-baad81766332
+1639259504283	Marionette	INFO	Listening on port 36055
+1639259504681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1680189050, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1680189050, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1680189050, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1680189050 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1680189050 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 7148 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639259524695	Marionette	INFO	Stopped listening on port 36055
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 95273, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-PkqERJ/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
